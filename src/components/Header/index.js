@@ -5,7 +5,7 @@ import Logo from "./JadeLogo.svg";
 function Header() {
   return (
     <div className="Header">
-      <img src={Logo}></img>
+      <img src={Logo} alt="Jade Beauty Barber"></img>
     </div>
   );
 }
