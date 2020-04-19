@@ -12,8 +12,8 @@ function Content() {
         send us an email.
       </div>
       <br />
-      Questions? Reach us at team<code>@</code>jadebeautybarber.com or at (408)
-      218-5082.
+      Questions? Reach us at team<code>@</code>jadebeautybarbercollege.com or at
+      ‪‪(408) 641-8015‬.
     </div>
   );
 }
