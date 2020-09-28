@@ -14,6 +14,14 @@ function Content() {
       <br />
       Questions? Reach us at team<code>@</code>jadebeautybarbercollege.com or at
       ‪‪(408) 641-8015‬.
+      <br />
+      <br />
+      <a
+        href="https://www.bppe.ca.gov/webapps/annual_report_2018.php?schoolCode=90323886"
+        target="_blank"
+      >
+        BPPE Annual Report
+      </a>
     </div>
   );
 }
