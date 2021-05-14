@@ -4,9 +4,20 @@
   margin: 0 auto;
   margin-top: 20px;
   .announcement {
-    background-color: #fcebe6;
+    background-color: #e6fceb;
     padding: 20px;
     border-radius: 5px;
+  }
+
+  .title {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+
+  ul {
+    margin: 0px;
   }
 }
 
