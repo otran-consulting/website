@@ -68,7 +68,7 @@ function Content() {
         </li>
         <li>
           <a
-            href="/brochures/Nail Brochure.pdf"
+            href="/brochures/Nail Care Brochure.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
