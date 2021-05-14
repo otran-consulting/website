@@ -10,7 +10,12 @@ function Content() {
         follow Covid-19 safety protocols and cleaning methods in our school,
         which all students must adhere to if they enter school premises. If you
         are interested in enrolling in any of our programs, the best way to
-        reach us is by calling.
+        reach us is by calling. <br />
+        <br />
+        To our valued customers, Jade Beauty and Barber College is not accepting
+        any in person customer services (hair cut, shaving, facial, nails, etc.)
+        for everyone's safety due to Covid-19. We appreciate you and will update
+        you as soon as we deem it safe to continue offering services.
       </div>
       <br />
       Questions? Reach us at team<code>@</code>jadebeautybarbercollege.com or at
