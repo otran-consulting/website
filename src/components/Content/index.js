@@ -102,20 +102,20 @@ function Content() {
         </li>
         <li>
           <a
-            href="/documents/SodaPDF-converted-2020 NAIL CARE PFS.pdf"
+            href="/documents/2020 MANICURIST CARE PFS.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Nail Care Performance Sheet
+            Manicurist Performance Sheet
           </a>
         </li>
         <li>
           <a
-            href="/documents/SodaPDF-converted-2020 SKIN CARE PFS.pdf"
+            href="/documents/2020 ESTHETICIAN PFS.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Skin Care Performance Sheet
+            Esthetician Performance Sheet
           </a>
         </li>
       </ul>
