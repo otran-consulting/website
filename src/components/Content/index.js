@@ -11,15 +11,10 @@ function Content() {
         which all students must adhere to if they enter school premises. If you
         are interested in enrolling in any of our programs, the best way to
         reach us is by calling. <br />
-        <br />
-        To our valued customers, Jade Beauty and Barber College is not accepting
-        any in person customer services (hair cut, shaving, facial, nails, etc.)
-        for everyone's safety due to Covid-19. We appreciate you and will update
-        you as soon as we deem it safe to continue offering services.
       </div>
       <br />
       Questions? Reach us at team<code>@</code>jadebeautybarbercollege.com or at
-      ‪‪(408) 641-8015‬.
+      (408) 218-5082.
       <br />
       <br />
       <a
@@ -31,7 +26,7 @@ function Content() {
       </a>
       <br />
       <a
-        href="https://www.bppe.ca.gov/webapps/annual_report_2018.php?schoolCode=90323886"
+        href="https://bppe.ca.gov/webapplications/annualReports/2020/details/90323886"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -39,7 +34,7 @@ function Content() {
       </a>
       <br />
       <a
-        href="/2021 Jade School's Catalogue.pdf"
+        href="/documents/SodaPDF-converted-2020 Jade School's Cat approved.pdf"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -89,7 +84,7 @@ function Content() {
       <ul>
         <li>
           <a
-            href="/performance sheets/2019 COSMETOLOGY performance sheet.pdf"
+            href="/documents/2020 COSMO PFS.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -98,7 +93,7 @@ function Content() {
         </li>
         <li>
           <a
-            href="/performance sheets/2019 BARBER performance sheet.pdf"
+            href="/documents/2020 BARBER PFS.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -107,7 +102,7 @@ function Content() {
         </li>
         <li>
           <a
-            href="/performance sheets/2019 NAIL CARE performance sheet.pdf"
+            href="/documents/SodaPDF-converted-2020 NAIL CARE PFS.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -116,7 +111,7 @@ function Content() {
         </li>
         <li>
           <a
-            href="/performance sheets/2019 SKIN CARE performance sheet.pdf"
+            href="/documents/SodaPDF-converted-2020 SKIN CARE PFS.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
